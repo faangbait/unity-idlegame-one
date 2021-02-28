@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Assets\Assets\SceneFadeInOut.cs">
+    <Files>
+      <File FileName="..\Assets\Assets\loadLevelAfterSeconds.cs" Line="18" Column="1" />
+      <File FileName="..\Assets\Assets\SceneFadeInOut.cs" Line="32" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
